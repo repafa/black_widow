@@ -46,4 +46,5 @@ This program should not be used to test websites without written permission. If 
 I am not responsible for your actions.
 Be aware that if many users use a program like this on one website then it could take a site down like a distributed denial of service attack.
 
+I will continue to update the code and make it better later on.
 If you have any questions about my program or want to provide suggestions, please email me at black.widow.git@gmail.com
