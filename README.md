@@ -44,7 +44,8 @@ Note: In Windows the program may immediately close when using options c2. This h
 WARNING!!!
 This program should not be used to test websites without written permission. If you proceed to test the program on a website without permission then you could get in trouble!
 I am not responsible for your actions.
-Be aware that if many users use a program like this on one website then it could take a site down like a distributed denial of service attack.
+I am not responsible for any damages this program can cause.
+By downloading this program you take full responsibility for how you intend to use it.
 
 I will continue to update the code and make it better later on.
 If you have any questions about my program or want to provide suggestions, please email me at black.widow.git@gmail.com
