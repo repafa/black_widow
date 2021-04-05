@@ -19,6 +19,9 @@ Note: For options a1, a2, b1 and b2 you only have to type the domain eg. example
 
 6. Wait for program to finish and read the output.
 
+Here is a tutorial:
+https://www.youtube.com/watch?v=ZjXH-P0Th30
+
 How to use on Windows:
 1. Download Black_Widow.exe, spider.txt, black_widow.txt, files-and-dirs-wordlist.txt, 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, subdomains-wordlist.txt and passwords.txt and put them all in the same directory.
 Note: You do not need to download files-and-dirs-wordlist.txt, subdomains-wordlist.txt and passwords.txt. You can download your own wordlists. Just make sure to change the names to the ones I made. For example if you want your own password wordlist text file then download or create it and name it passwords.txt so you can use it with option 6 in the program.
@@ -32,6 +35,9 @@ Note: You do not need to download files-and-dirs-wordlist.txt, subdomains-wordli
 Note: For options 1, 2, 3 and 4 you only have to type the domain eg. example.com. For 5 and 6 you need to include http:// or https://. You may also include http://www. or https://www. before the domain name which can give different results.
 
 5. Wait for program to finish and read the output.
+
+Here is a tutorial:
+https://www.youtube.com/watch?v=G63ih9DNp40
 
 The program is a little different on Windows. You won't get the full experience like the colours you would see in Linux. I recommend using this program in Linux to get the full experience. 
 
