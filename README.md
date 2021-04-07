@@ -15,7 +15,7 @@ pip install termcolor
 1, 2, 3, 4, 5, 6
 
 5. Type the domain name.
-Note: For options a1, a2, b1 and b2 you only have to type the domain eg. example.com. For c1 and c2 you need to include http:// or https://. You may also include http://www. or https://www. before the domain name which can give different results.
+Note: For options 1, 2, 3 and 4 you only have to type the domain eg. example.com. For 1 and 2 you need to include http:// or https://. You may also include http://www. or https://www. before the domain name which can give different results.
 
 6. Wait for program to finish and read the output.
 
